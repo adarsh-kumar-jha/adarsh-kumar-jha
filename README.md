@@ -30,7 +30,7 @@
 - :technologist: I love using Software as a solution for every Problem.
 - :computer: I am a competitive programmer at Codeforces, Leetcode, CodeStudio, Gfg.
 - :student: I’m currently learning Computer Science and Software Engineering.
-- :thinking: I’m currently open for a new job opportunity, this is [MY RESUME](at ) (https://drive.google.com/file/d/1raoFcThfpkqqwoSQmRGt3_Ia8BXhLeNL/view?usp=drivesdk).
+- :thinking: I’m currently open for a new job opportunity, this is Resume (at ) (https://drive.google.com/file/d/1raoFcThfpkqqwoSQmRGt3_Ia8BXhLeNL/view?usp=drivesdk).
 - :boom: You can visit [MY WEBSITE](at).
 <br>
 
